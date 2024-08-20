@@ -30,7 +30,7 @@ ul {
 .navbar .menu ul {
     display: flex;
     justify-content: space-between;
-    margin-right: 16px;
+    margin-right: 36px;
     padding-right: 40px;
 }
 
